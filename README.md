@@ -22,6 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-Stopped at 45:00 somehow submit does not work?!
