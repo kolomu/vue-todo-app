@@ -1,4 +1,4 @@
-# vue_crash_todolist
+Use `vue ui` to start graphical user interface.
 
 ## Project setup
 ```
